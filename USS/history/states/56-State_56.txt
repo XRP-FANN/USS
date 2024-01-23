@@ -1,0 +1,12 @@
+
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		30 200 392 440 614 781 803 1027 1042 1046 1634 1892 2079 2131 2251 2256 2270 
+	}
+	manpower=111
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

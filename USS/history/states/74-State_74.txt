@@ -1,0 +1,12 @@
+
+state={
+	id=74
+	name="STATE_74"
+	provinces={
+		14 19 121 291 446 608 682 751 763 871 887 959 1169 1209 1454 1475 1620 1693 1871 1893 1926 2007 2288 2294 
+	}
+	manpower=111
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

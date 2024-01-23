@@ -1,0 +1,12 @@
+
+state={
+	id=88
+	name="STATE_88"
+	provinces={
+		56 246 253 261 453 457 465 623 659 762 796 1132 1140 1262 1346 1642 1647 1667 1783 1845 1938 1952 2053 2082 2116 
+	}
+	manpower=111
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

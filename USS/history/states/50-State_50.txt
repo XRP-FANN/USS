@@ -1,0 +1,12 @@
+
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		69 936 958 1411 1424 1607 2062 2222 
+	}
+	manpower=111
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

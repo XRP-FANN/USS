@@ -1,0 +1,12 @@
+
+state={
+	id=137
+	name="STATE_137"
+	provinces={
+		7 168 224 332 335 644 757 825 1022 1061 1466 1671 1801 1969 2440 2447 
+	}
+	manpower=111
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
