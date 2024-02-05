@@ -4,8 +4,24 @@ state={
 	provinces={
 		374 1010 1280 1429 1976 2443 
 	}
-	manpower = 111
+	manpower = 574231
 	
-	state_category = rural
+	state_category = megalopolis
+	history={
+		owner = USA
+		add_core_of = TST
+		victory_points = { 374 26 }
+		buildings = {
+			arms_factory = 4
+			industrial_complex = 2
+			infrastructure = 3
+		}
+	}
+	resources = {
+		steel = 25
+		oil = 5
+		chromium = 6
+		rubber = 8
+	}
 
 }

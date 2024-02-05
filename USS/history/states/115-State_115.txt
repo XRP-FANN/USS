@@ -6,6 +6,14 @@ state={
 	}
 	manpower = 111
 	
-	state_category = rural
-
+	state_category = town
+	history={
+		owner = TST
+		add_core_of = TST
+		victory_points = { 27 1 }
+		buildings = {
+			arms_factory = 1
+			industrial_complex = 3
+		}
+	}
 }

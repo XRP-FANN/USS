@@ -1,0 +1,16 @@
+characters={
+	TST_test={
+		name="Mohammed Zahir Shah"
+		portraits={
+			civilian={
+
+			}
+		}
+		country_leader = {
+			ideology = MysticalAnarchism_subtype
+			expire="1965.1.1.1"
+			id = -1
+		}
+		}
+	
+}

@@ -5,8 +5,18 @@ state={
 	provinces={
 		92 110 181 203 343 344 387 410 449 451 556 749 774 808 843 993 1041 1068 1131 1178 1215 1225 1255 1357 1374 1376 1379 1398 1493 1690 1740 1772 1826 2029 2051 2343 2360 2366 2367 2399 2407 
 	}
-	manpower=111
+	manpower=25000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category= town
 	local_supplies=0.000
+	history={
+		owner = TST
+		add_core_of = TST
+		victory_points = { 92 4 }
+		buildings = {
+			arms_factory = 2
+			industrial_complex = 2
+	
+	}
+	}
 }

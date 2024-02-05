@@ -1,0 +1,16 @@
+characters={
+	USA_Jace={
+		name="Jace Norman Mattis"
+		portraits={
+			civilian={
+				large = GFX_portrait_jeim
+			}
+		}
+		country_leader = {
+			ideology = Non-Aligned
+			expire="2003.1.1.1"
+			id = -1
+		}
+		}
+	
+}
